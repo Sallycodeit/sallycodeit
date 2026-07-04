@@ -1,6 +1,6 @@
 ### Hi there! *Welcome to my little corner of GitHub.*
 
-I'm **Sarah Akinwale**, an aspiring Data Analyst currently learning Python, SQL, and Data Science.
+I'm **Sarah Akinwale**, an aspiring Data Analyst.
 
 Am passionate about using technology and education to solve problems, inspire learning and create meaningful impact. Every project here represent a step in my learning and growth.
 
