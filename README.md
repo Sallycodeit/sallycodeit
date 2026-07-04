@@ -1,18 +1,9 @@
-## My-learning-journey
+### Hi there! *Welcome to my little corner of GitHub.*
 
-### I'm currently learning:
-- Python
-- SQL
-- Data Analysis
-- Data Science
+I'm **Sarah Akinwale**, an aspiring Data Analyst currently learning Python, SQL, and Data Science.
 
-This repository documents my projects, notes, and progress as I grow in tech.
+Am passionate about using technology and education to solve problems, inspire learning and create meaningful impact. Every project here represent a step in my learning and growth.
 
-## Goals 
-- Build real-world projects
-- Strenghten my analytical skills
-- Create a professional portfolio
-- Use technology to  make a positive impact
+I'm glad you're here, I hope you enjoy exploring my projects as I continue growing my skills.
 
-Thank you for following my journey.
-
+Thank you for visiting!
