@@ -1,16 +1,18 @@
-## Hi there 👋
+## My-learning-journey
 
-<!--
-**Sallycodeit/sallycodeit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm currently learning:
+- Python
+- SQL
+- Data Analysis
+- Data Science
 
-Here are some ideas to get you started:
+This repository documents my projects, notes, and progress as I grow in tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals 
+- Build real-world projects
+- Strenghten my analytical skills
+- Create a professional portfolio
+- Use technology to  make a positive impact
+
+Thank you for following my journey.
+
